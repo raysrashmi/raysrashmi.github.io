@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: jquery | Rashmi Yadav]]></title>
-  <link href="http://raysrashmi.com/blog/categories/jquery/atom.xml" rel="self"/>
-  <link href="http://raysrashmi.com/"/>
-  <updated>2014-09-11T20:46:28+02:00</updated>
-  <id>http://raysrashmi.com/</id>
+  <link href="http://raysrashmi.github.io/blog/categories/jquery/atom.xml" rel="self"/>
+  <link href="http://raysrashmi.github.io/"/>
+  <updated>2015-05-09T11:28:20+02:00</updated>
+  <id>http://raysrashmi.github.io/</id>
   <author>
     <name><![CDATA[Rashmi Yadav]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[jQuery attr('value') and val()]]></title>
-    <link href="http://raysrashmi.com/2013/08/12/jquery-val-and-attr/"/>
+    <link href="http://raysrashmi.github.io/2013/08/12/jquery-val-and-attr/"/>
     <updated>2013-08-12T00:11:00+02:00</updated>
-    <id>http://raysrashmi.com/2013/08/12/jquery-val-and-attr</id>
+    <id>http://raysrashmi.github.io/2013/08/12/jquery-val-and-attr</id>
     <content type="html"><![CDATA[<p>Here is a short tip about using <strong>$(obj).val()</strong> and <strong>$(obj).attr(&lsquo;value&rsquo;)</strong>.
 I was fixing a bug in ajax request with some params
 then i found that there is a difference <code>val()</code> method and <code>attr(&lsquo;value&rsquo;)</code>

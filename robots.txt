@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://raysrashmi.com/sitemap.xml 
+Sitemap: http://raysrashmi.github.io/sitemap.xml 
